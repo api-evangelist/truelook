@@ -64,23 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TrueLook is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+TrueLook provides construction site security and intelligence through high-definition cameras, AI-driven analytics, and a cloud platform that delivers live video, time-lapse documentation, PPE detection, and automated alerts. The solution integrates with construction management tools such as Procore, offering remote monitoring, incident reporting, and data-driven insights for owners, contractors, and insurers.
 
-**Areas:** Company
+**Areas:** Construction · Security · AI · Video · Monitoring · SaaS
 
 ## TrueLook on APIs.io
 
 Everything profiled for TrueLook is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/truelook/](https://apis.io/providers/truelook/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [TrueLook API](https://apis.io/apis/truelook/truelook-api/) — TrueLook offers a cloud platform for construction site security; however no public machine‑readable API specification is available.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Truelook Authentication](https://apis.io/security/truelook/truelook-authentication/)
+- [Truelook Domain Security](https://apis.io/security/truelook/truelook-domain-security/)
+- [Truelook Trust Center](https://apis.io/security/truelook/truelook-trust-center/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Truelook Scopes](https://apis.io/scopes/truelook/truelook-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Truelook Plans Pricing](https://apis.io/plans/truelook/truelook-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Truelook Rate Limits](https://apis.io/rate-limits/truelook/truelook-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://truelook.com/)
+- [Documentation](https://help.truelook.com/)
+- [Pricing](https://www.truelook.com/pricing)
+- [Support](https://support.truelook.com/)
+- [Changelog](https://www.truelook.com/release-notes)
+- [Blog](https://www.truelook.com/blog)
+- [Compliance](https://trust.truelook.com/)
+- [Terms of service](https://www.truelook.com/terms-conditions)
+- [Privacy policy](https://www.truelook.com/privacy-policy)
+- [GitHub](https://github.com/truelook)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/truelook/](https://apis.io/providers/truelook/).
+**Kin Score 23.0** — emerging · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 47.4 |
+
+**Agent readiness 8.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/truelook/](https://apis.io/providers/truelook/).
 
 ## How this profile is made
 
